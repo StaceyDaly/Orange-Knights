@@ -23,7 +23,7 @@ Male and Female
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](https://datawrapper.dwcdn.net/EbfZ4/2/) and ![Image](src)
+[Link](https://www.datawrapper.de/_/EbfZ4/) and ![Image](src)
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
